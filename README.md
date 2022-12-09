@@ -4,4 +4,4 @@
 
 
 [twitter]: https://img.shields.io/twitter/follow/FrdricCt15?color=brightgreen&logo=twitter&style=for-the-badge
-[twitter-url]: https://twitter.com/intent/follow?screen_name=FrdricCt15
+[twitter-url]: https://twitter.com/intent/follow?screen_name=LiquidBlocks
