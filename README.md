@@ -1,4 +1,4 @@
-### 👋 Hello, my name is Fred
+### 👋 Hello
 
 [![Twitter Follow][twitter]][twitter-url]
 
