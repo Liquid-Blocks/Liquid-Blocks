@@ -5,5 +5,5 @@
 <hr/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Liquid-Blocks/count.svg" alt="hit counter" align="center">
+  <img src="https://ubshnhrr94.execute-api.ca-central-1.amazonaws.com/dev/Liquid-Blocks" alt="hit counter" align="center">
 </div>
